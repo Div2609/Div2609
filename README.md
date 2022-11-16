@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data Structure and Algorithm advanced topics and React alongside Machine learning.....
 - 💞️ I’m currently collaborating with AIISC,TIH PATNA & also was an integral part of C3i Hub IIT K
 - 📫 How to reach me:sdivyanshu129@gmail.com
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Div2609)](https://github.com/Div2609/github-readme-stats)
 
 <!---
 Div2609/Div2609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
