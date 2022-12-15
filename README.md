@@ -1,12 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<a href="https://www.youtube.com/channel/UCO_ng2pnzaFF8bn9_P40z3g">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  </a>
-  </div>
+<div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=asmicro&style=flat-square&color=blue" alt=""/>
+  </div>
   <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -14,14 +11,15 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-:man_technologist:<b>About me:</b><br>
-- 🔭 I’m currently working on popular tech stacks for web development that includes Javascript based MERN stack (MongoDB,Express,React and Node.js) and learning essential concept of Machine learning involving NLP and Computer Vision.<br>
-- 🌱 I’m currently learning more about Data Structures and Analysis of Algorithms.<br>
-- 👯 I have collaborated on various project related to organisation like AIISC,TIH,C3I hub and currently looking to collaborate on project related to my tech stack.<br>
--  How to reach me: sdivyanshu129@gmail.com <br>
-- 😄 Pronouns: He/Him<br>
+
+## 👨🏻‍💻 &nbsp;About Me
+
+- 👋 Hi, I’m @Div2609 aka Divyanshu Singh
+- 👀 I’m interested in new techonlogies
+- 🌱 I have previously collaborated with C3i hub,TIH.AIISC 
+- 📫 Email: sdivyanshu129@gmail.com
 - :hammer_and_wrench:<b>Languages and Tools:</b><br>
--  <div>
+- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -44,3 +42,10 @@
 [![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Div2609)](https://github.com/asmicro/github-readme-stats)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Div2609&theme=cobalt)](https://github.com/Div2609)
 </div>
+
+
+
+
+[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:divyanshu.work26@gmail.com)
+ 
+[linkedin]: https://www.linkedin.com/in/Lawful2002/
