@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on popular tech stacks for web development that includes Javascript based MERN stack (MongoDB,Express,React and Node.js) and learning essential concept of Machine learning involving NLP and Computer Vision.<br>
 - 🌱 I’m currently learning more about Data Structures and Analysis of Algorithms.<br>
 - 👯 I have collaborated on various project related to organisation like AIISC,TIH,C3I hub and currently looking to collaborate on project related to my tech stack.<br>
-- 📫 Reach me at :sdivyanshu129@gmail.com <br>
+- 📫 Reach me at :**sdivyanshu129@gmail.com** <br>
 - 😄 Pronouns: He/Him<br>
 - :hammer_and_wrench:<b>Languages and Tools:</b><br>
 -  <div>
