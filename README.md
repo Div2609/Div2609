@@ -20,7 +20,7 @@
 - 📫 Email: sdivyanshu129@gmail.com
 - :hammer_and_wrench:<b>Languages and Tools:</b><br>
 - <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c++/c++-original-wordmark.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px"></a>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
